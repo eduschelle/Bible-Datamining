@@ -22,7 +22,7 @@ The sentiment analysis tools of the data science can give us a taste, if not eve
 
 In this approach, it was used the lexicans of English words rated for valence with an integer between minus five (negative) and plus five (positive). The words have been manually labeled by Finn Årup Nielsen in 2009-2011. Crossing the words from each book of the Bible with the "Afinn" lexican, there is the possibility to measure some kind of positivity of the texts e rank them by the sum of the score by book. In this analysis, the score was divided by the number of words of the respective book, so the lenght of the book shall not be a variable, and multiplied by 1000, to make the notation easier.
 
-![](C:\Users\Eduardo\projects\bible\project_text_mining\Bible_Datamining\sumarize_of_all_books.png "Fig 1")
+![](\sumarize_of_all_books.png "Fig 1")
 
 
 By the colors spreading of this bar plot, it is intuitive to say that the new testament has books with highter scores than the old. In other words, there is more pleasant texts in the new testament, according to the afinn studies.
@@ -42,7 +42,7 @@ In this analysis, I used the same lexican of the old and new testament analysis 
 
 Without surprising my friend, I plot a graphic that certainly show a curve:
 
-![](C:\Users\Eduardo\projects\bible\project_text_mining\Bible_Datamining\Romans_plot.png "Fig 3")
+![](\Romans_plot.png "Fig 3")
 
 There's a climax in the chapters 6 and 7. Reading the text, we can find some words like adulteress, law, dead, death and so on. It is the really tense part of the epistle. If the lexican dispose any of this words, it may add some negative scores to this chapters.
 
