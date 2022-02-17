@@ -10,7 +10,7 @@ output:
 ---
 ## Bible Datamining
 ***
-This analysis uses the tidy approach elaborated in 'Text Mining with R' exploring the King James Version of the Bible.
+This analysis uses the tidy approach exploring the King James Version of the Bible by text mining with R.
 
 ### Old and new testament analysis
 ***
